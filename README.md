@@ -35,7 +35,7 @@
 ## 联系方式 📧
 
 - **电子邮件**: AlanKevin2077@qq.com
-- **GitHub**: [https://github.com/01CKam](01CKam)
+- **GitHub**: [https://github.com/01CKam](https://github.com/01CKam)
 
 
 感谢你访问前端资源库！希望这些资源能帮助你更高效地完成项目。如果你有任何建议或意见，欢迎随时联系我。📩
