@@ -1,32 +1,41 @@
-# 本库介绍
-有前端项目实例、图标、网站加载动画、能放在网页的小游戏、登录界面、表白代码等各种有趣代码
+# 前端资源库 🎨
 
-# 目录
+欢迎来到我的前端资源库！这里汇集了我在Web开发过程中积累的各种资源，涵盖了从基础到高级的各个方面。无论你是前端新手还是经验丰富的开发者，这里都能为你提供有价值的参考和灵感。💡
 
-##
-<a href="./实用代码/">实用代码</a>
+![前端开发](https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?auto=format&fit=crop&w=1350&q=80)
 
-##
-<a href="./有趣de代码/">有趣de代码</a>
+## 目录 📚
 
-##
-<a href="./登录界面/">登录页面</a>
+1. [简介](#简介)
+2. [资源分类](#资源分类)
+    - [HTML & CSS](#html--css)
+    - [Vue](#VueVue)
 
-##
-<a href="./图标、动画等/">图标、动画等</a>
+6. [联系方式](#联系方式)
 
-##
-<a href="./项目实例/">项目实例</a>
+---
 
-# 素材合集
+## 简介 🌟
 
-##
-<a href="https://goatchen.coding.net/public/html-css/HTML-CSS/git/files">山羊合集</a>
+前端资源库是我多年开发经验的结晶，旨在帮助开发者更高效地完成项目。这里不仅有代码片段和工具推荐，还有丰富的学习资源和社区链接。无论你是想快速查找某个功能实现，还是寻找灵感，这里都是你的不二之选。🚀
 
-##
-<a href="https://gitee.com/bilibili-ayang/HTML-CSS-case">阿阳合集</a>
+![资源库](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1350&q=80)
 
-##
-<a href="https://cssfx.netlify.app/">CSSFX</a>
+## 资源分类 🗂️
+
+### HTML & CSS
+
+- **模板**：各种响应式HTML模板，适用于不同类型的网站。
+
+### Vue
+- **项目**：
+- **功能模块**：
 
 
+## 联系方式 📧
+
+- **电子邮件**: AlanKevin2077@qq.com
+- **GitHub**: [https://github.com/01CKam](01CKam)
+
+
+感谢你访问前端资源库！希望这些资源能帮助你更高效地完成项目。如果你有任何建议或意见，欢迎随时联系我。📩

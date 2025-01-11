@@ -3,7 +3,6 @@
 .icheckbox_square-green,
 .iradio_square-green {
     display: inline-block;
-    *display: inline;
     vertical-align: middle;
     margin: 0;
     padding: 0;
@@ -57,3 +56,6 @@
         background-size: 240px 24px;
     }
 }
+
+/* custom.css */
+
